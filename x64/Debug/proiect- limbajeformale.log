@@ -1,0 +1,5 @@
+﻿  proiect- limbajeformale.cpp
+D:\proiecte c(73,29): warning C4566: character represented by universal-character-name '\u03BB' cannot be represented in the current code page (1252)
+D:\proiecte c(74,26): warning C4566: character represented by universal-character-name '\u03BB' cannot be represented in the current code page (1252)
+D:\proiecte c#\proiect- limbajeformale\proiect- limbajeformale.cpp(43): warning C4715: 'GetInput': not all control paths return a value
+  proiect- limbajeformale.vcxproj -> D:\proiecte c#\proiect- limbajeformale\x64\Debug\proiect- limbajeformale.exe
